@@ -1,0 +1,1 @@
+Final tool reports have not been captured yet. Install Pylint, Bandit, and Flake8 in the Windows virtual environment, run the commands in the project README, and save their actual output in this folder. Do not fabricate tool scores or clean-scan claims.
